@@ -38,6 +38,7 @@ def start(ans):
             fails += 1
             hangman = hangman_parts[fails - 1]
             print('Oh no, letter not in phrase.\n     ' + hangman + '\n')
+            exit()
         else:
             for index in range(len(ans)):
                 if choice == ans[index]:
@@ -45,9 +46,11 @@ def start(ans):
             print(' '.join(guess))
     if fails == 5:
         print('Oh no, you lost! The answer was ' + ans)
+        exit()
     else:
         print(fails)
         print('Nice job, the answer was ' + ans)
+        exit()
 
 
 words = open('words.txt', 'r')
