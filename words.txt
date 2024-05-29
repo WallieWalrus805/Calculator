@@ -1,0 +1,143 @@
+acorn
+agriculture
+alternate leaves
+annual
+anther
+bamboo
+bark
+bean
+berry
+blade
+blossom
+botany
+branch
+brush
+bud
+bulb
+bush
+cactus
+canopy
+carpel
+cleft leaf
+clover
+cone
+cork
+corm
+corolla
+deciduous
+dicot
+embryo
+evergreen
+fern
+fertilizer
+filament
+flora
+flower
+foliage
+forest
+fruit
+garden
+germinate
+grain
+grass
+grove
+grow
+guard cell
+gum
+hardy
+herb
+horsetail
+horticulture
+hybrid
+imperfect flower
+incomplete flower
+internode
+ivy
+jungle
+juniper
+kapok tree
+kelp
+leaf
+lateral bud
+lead scar
+leaf
+leaflet
+legume
+lily
+lobed
+margin
+moss
+nectar
+needle
+netted
+node
+nut
+opposite leaves
+ovary
+palm
+palmate
+parted leaf
+perennial
+perfect flower
+petal
+petrified wood
+photosynthesis
+pistil
+pith
+poison ivy
+pollen
+pollinate
+prickle
+pulse
+rain forest
+resin
+rings
+root
+root cap
+root hairs
+root tip
+rootstock
+sage brush
+sap
+sapling
+sea weed
+seed
+seed pod
+seedling
+sepal
+shoot
+shrub
+soil
+spine
+spore
+sprout
+stalk
+stamen
+stand
+stem
+stigma
+stoma
+style
+succulents
+sunlight
+tap root
+thorn
+tobacco
+toothed
+tree
+tree fern
+trunk
+tuber
+tumbleweeds
+twig
+understory
+vascular
+vegetable
+vegetation
+vein
+venation
+vine
+weed
+wood
+woody
+yucca
