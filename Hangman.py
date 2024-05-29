@@ -32,13 +32,14 @@ def start(ans):
         if len(choice) > 1:
             if choice + '\n' == ans:
                 print('Wow! You guessed the word correctly! The answer was ' + ans)
+                exit()
             else:
                 print('Oh no, you didn\'t guess the word correctly. The answer was ' + ans)
+                exit()
         elif choice not in ans:
             fails += 1
             hangman = hangman_parts[fails - 1]
             print('Oh no, letter not in phrase.\n     ' + hangman + '\n')
-            exit()
         else:
             for index in range(len(ans)):
                 if choice == ans[index]:
